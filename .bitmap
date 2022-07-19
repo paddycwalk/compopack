@@ -9,5 +9,18 @@
  */
 
 {
+    "button": {
+        "scope": "",
+        "version": "",
+        "defaultScope": "my-org.atoms",
+        "mainFile": "index.ts",
+        "rootDir": "atoms/button",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
     "$schema-version": "14.9.0"
 }
